@@ -1,0 +1,64 @@
+# Kattis
+
+My solutions to Kattis problems. Includes problems solved when reading [CS2040C Data Structures and Algorithms](https://nusmods.com/modules/CS2040C/data-structures-and-algorithms).
+
+| Problem                                                                                  | Solution                                                                                               | Difficulty |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
+| [99 Problems](https://nus.kattis.com/problems/nus.99problems)                            | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/uncategorised/nus.99problems.cpp)       | -          |
+| [Accounting](https://open.kattis.com/problems/bokforing)                                 | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/bokforing.cpp)                   | Medium     |
+| [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals)                     | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/alphabetanimals.cpp)             | Medium     |
+| [Arrangement](https://open.kattis.com/problems/upprodun)                                 | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/upprodun.cpp)                      | Easy       |
+| [Array Smoothening](https://open.kattis.com/problems/arraysmoothening)                   | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/arraysmoothening.cpp)              | Easy       |
+| [Average Character](https://open.kattis.com/problems/averagecharacter)                   | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/averagecharacter.cpp)              | Easy       |
+| [Backspace](https://open.kattis.com/problems/backspace)                                  | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/backspace.cpp)                     | Easy       |
+| [Baby Panda](https://open.kattis.com/problems/babypanda)                                 | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/babypanda.cpp)                     | Easy       |
+| [Basic Programming](https://open.kattis.com/problems/basicprogramming2)                  | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/basicprogramming2.cpp)             | Easy       |
+| [Bracket Matching](https://nus.kattis.com/problems/nus.bracketmatching)                  | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/uncategorised/nus.bracketmatching.cpp)  | -          |
+| [Betting](https://open.kattis.com/problems/betting)                                      | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/betting.cpp)                       | Easy       |
+| [Build Dependencies](https://open.kattis.com/problems/builddeps)                         | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/builddeps.cpp)                   | Medium     |
+| [Building Highways](https://nus.kattis.com/problems/nus.buildinghighways)                | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/uncategorised/nus.buildinghighways.cpp) | -          |
+| [Building Pyramids](https://open.kattis.com/problems/pyramids)                           | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/pyramids.cpp)                      | Easy       |
+| [Code to Save Lives](https://open.kattis.com/problems/codetosavelives)                   | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/codetosavelives.cpp)               | Easy       |
+| [Conga Line](https://open.kattis.com/problems/congaline)                                 | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/congaline.cpp)                   | Medium     |
+| [Cookie Selection](https://open.kattis.com/problems/cookieselection)                     | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/cookieselection.cpp)             | Medium     |
+| [Count The Vowels](https://open.kattis.com/problems/countthevowels)                      | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/countthevowels.cpp)                | Easy       |
+| [Course Scheduling](https://open.kattis.com/problems/coursescheduling)                   | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/coursescheduling.cpp)              | Easy       |
+| [Cut in Line](https://open.kattis.com/problems/cutinline)                                | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/cutinline.cpp)                     | Easy       |
+| [Double Password](https://open.kattis.com/problems/doublepassword)                       | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/doublepassword.cpp)                | Easy       |
+| [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)                          | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/echoechoecho.cpp)                  | Easy       |
+| [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)                 | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/electricaloutlets.cpp)             | Easy       |
+| [Emergency Contest Running](https://open.kattis.com/problems/emergency)                  | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/emergency.cpp)                   | Medium     |
+| [Fluortanten](https://open.kattis.com/problems/fluortanten)                              | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/fluortanten.cpp)                   | Easy       |
+| [Gear Changing](https://open.kattis.com/problems/gearchanging)                           | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/gearchanging.cpp)                | Medium     |
+| [Hello World!](https://open.kattis.com/problems/hello)                                   | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/hello.cpp)                         | Easy       |
+| [Hermits](https://open.kattis.com/problems/hermits)                                      | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/hermits.cpp)                     | Medium     |
+| [Homework](https://open.kattis.com/problems/heimavinna)                                  | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/heimavinna.cpp)                    | Easy       |
+| [Hot Springs](https://open.kattis.com/problems/hotsprings)                               | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/hotsprings.cpp)                    | Easy       |
+| [Jackpot](https://open.kattis.com/problems/jackpot)                                      | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/jackpot.cpp)                     | Medium     |
+| [Job Switching](https://open.kattis.com/problems/jobbyte)                                | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/jobbyte.cpp)                       | Easy       |
+| [Join Strings](https://open.kattis.com/problems/joinstrings)                             | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/joinstrings.cpp)                 | Medium     |
+| [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin)                           | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/jumbojavelin.cpp)                  | Easy       |
+| [Kattis's Quest](https://open.kattis.com/problems/kattissquest)                          | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/kattissquest.cpp)                | Medium     |
+| [Laptop Stickers](https://open.kattis.com/problems/laptopstickers)                       | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/laptopstickers.cpp)                | Easy       |
+| [Liquid Assets](https://open.kattis.com/problems/liquidassets)                           | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/liquidassets.cpp)                | Medium     |
+| [Massive Card Game](https://open.kattis.com/problems/massivecardgame)                    | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/massivecardgame.cpp)               | Easy       |
+| [Modulo](https://open.kattis.com/problems/modulo)                                        | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/modulo.cpp)                        | Easy       |
+| [Mjehuric](https://open.kattis.com/problems/mjehuric)                                    | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/mjehuric.cpp)                      | Easy       |
+| [Path Crossings](https://open.kattis.com/problems/pathcrossings)                         | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/pathcrossings.cpp)               | Medium     |
+| [Quickscope](https://open.kattis.com/problems/quickscope)                                | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/quickscope.cpp)                  | Medium     |
+| [Reverse](https://open.kattis.com/problems/ofugsnuid)                                    | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/ofugsnuid.cpp)                     | Easy       |
+| [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)                      | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/qaly.cpp)                          | Easy       |
+| [Reachable Roads](https://open.kattis.com/problems/reachableroads)                       | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/reachableroads.cpp)                | Easy       |
+| [Running Race](https://open.kattis.com/problems/kaploeb)                                 | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/kaploeb.cpp)                       | Easy       |
+| [Single source shortest path, safe path](https://open.kattis.com/problems/shortestpath4) | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/shortestpath4.cpp)               | Medium     |
+| [Social Distancing](https://open.kattis.com/problems/socialdistancing2)                  | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/socialdistancing2.cpp)             | Easy       |
+| [Soda Slurper](https://open.kattis.com/problems/sodaslurper)                             | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/sodaslurper.cpp)                   | Easy       |
+| [Sort of Sorting](https://open.kattis.com/problems/sortofsorting)                        | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/sortofsorting.cpp)                 | Easy       |
+| [Speed Limit](https://open.kattis.com/problems/speedlimit)                               | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/speedlimit.cpp)                    | Easy       |
+| [Successful Zoom](https://open.kattis.com/problems/successfulzoom)                       | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/successfulzoom.cpp)                | Easy       |
+| [Test Drive](https://open.kattis.com/problems/testdrive)                                 | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/testdrive.cpp)                     | Easy       |
+| [Thanos](https://open.kattis.com/problems/thanos)                                        | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/thanos.cpp)                        | Easy       |
+| [Tildes](https://open.kattis.com/problems/tildes)                                        | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/tildes.cpp)                      | Medium     |
+| [Turn It Up!](https://open.kattis.com/problems/skruop)                                   | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/skruop.cpp)                        | Easy       |
+| [Weak Vertices](https://open.kattis.com/problems/weakvertices)                           | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/easy/weakvertices.cpp)                  | Easy       |
+| [Working From Home](https://open.kattis.com/problems/workingfromhome)                    | [C++](https://github.com/jinxuan-owyong/kattis/blob/master/cpp/medium/workingfromhome.cpp)             | Medium     |
